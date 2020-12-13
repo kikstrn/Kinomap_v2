@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kinomap</string>
+    <string name="name">Name :</string>
+    <string name="buttonName">Valider</string>
+    <string name="nomVc"> </string>
+</resources>
